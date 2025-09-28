@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo.jpg" width="200" alt="Ecomenu Logo" style="box-shadow: 0 4px 12px rgba(0,0,0,0.2); opacity: 0.9; border-radius: 12px;" />
+  <img src="/logo.png" width="200" alt="AI Agent Guidelines Logo" style="box-shadow: 0 4px 12px rgba(0,0,0,0.2); opacity: 0.9; border-radius: 12px;" />
 </p>
 <h3 align="center">AI Agent Guidelines</h3>
 <p align="center">Instrucciones y lineamientos para controlar el comportamiento de una IA, incluyendo reglas, prompts base y directrices de uso.</p>
